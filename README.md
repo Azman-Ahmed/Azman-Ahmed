@@ -4,6 +4,8 @@
 
 ## About Me
 
+![Your Photo](https://your-image-url.com/photo.jpg)
+
 I'm a passionate developer and competitive programmer with experience in [Your Main Technology/Field]. I love solving challenging problems and participating in programming contests. In my free time, I enjoy [Your Hobbies].
 
 - 🔭 I’m currently working on [Current Project]
@@ -40,7 +42,7 @@ I'm a passionate developer and competitive programmer with experience in [Your M
 ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/your-username.png)
 
 ### Codeforces Stats
-![Codeforces Stats](https://codeforces-stats-api.herokuapp.com/your-username.png)
+![Codeforces Stats](https://codeforces-stats-api.herokuapp.com/Azman_Ahmed.png)
 
 ### CodeChef Stats
 ![CodeChef Stats](https://codechef-stats-api.herokuapp.com/your-username.png)
