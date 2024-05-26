@@ -20,7 +20,7 @@
 
 ## About Me
 
-![Your Photo](<img src="https://github.com/profile_picture.png" alt="Azman Ahmed" style="border-radius: 50%; border: 2px solid #555;">)
+![Azman Ahmed](./image/me.png)
 
 I'm a passionate developer and competitive programmer with experience in [Your Main Technology/Field]. I love solving challenging problems and participating in programming contests. In my free time, I enjoy [Your Hobbies].
 
