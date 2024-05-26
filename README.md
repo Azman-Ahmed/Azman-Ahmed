@@ -20,7 +20,9 @@
 
 ## About Me
 
-![Azman Ahmed](./image/me.jpg)
+<div style="text-align:center;">
+  <img src="./image/me.jpg" alt="Azman Ahmed" />
+</div>
 
 I'm a passionate developer and competitive programmer with experience in [Your Main Technology/Field]. I love solving challenging problems and participating in programming contests. In my free time, I enjoy [Your Hobbies].
 
