@@ -1,9 +1,15 @@
 # Hi there, I'm MD. Azman Ahmed! 👋
 
-![Azman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=radical)
 
-![Azman's Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=radical" alt="John Doe's GitHub stats">
+</div>
 
+## Codeforces Stats
+
+<div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed" alt="John Doe's Codeforces Stats">
+</div>
 
 ## About Me
 
