@@ -20,7 +20,7 @@
 ## CodeChef Stats
 
 <div align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api/get-stats?username=azman_ahmed" alt="Azman's CodeChef Stats">
+  <img src="https://codechef-readme-stats.vercel.app/api/get-stats?username=azman_ahmed" alt="Azman Ahmed's CodeChef Stats">
 </div>
 
 ## About Me
