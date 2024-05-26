@@ -17,17 +17,10 @@
   <img src="https://leetcard.jacoblin.cool/user8416dI" alt="Azman's LeetCode Stats">
 </div>
 
-## CodeChef Stats
-
-<div align="center">
-  <img src="https://img.atcoder.jp/statistics/graph/Z_0_0_0_Z.png" alt="Azman Ahmed's AtCoder Stats">
-</div>
-
-
 
 ## About Me
 
-![Your Photo](https://your-image-url.com/photo.jpg)
+![Your Photo](<img src="https://github.com/profile_picture.png" alt="Azman Ahmed" style="border-radius: 50%; border: 2px solid #555;">)
 
 I'm a passionate developer and competitive programmer with experience in [Your Main Technology/Field]. I love solving challenging problems and participating in programming contests. In my free time, I enjoy [Your Hobbies].
 
