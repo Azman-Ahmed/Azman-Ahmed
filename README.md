@@ -8,7 +8,7 @@
 ## Codeforces Stats
 
 <div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed" alt="John Doe's Codeforces Stats">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed" alt="Azman's Codeforces Stats">
 </div>
 
 ## LeetCode Stats
@@ -20,7 +20,7 @@
 ## CodeChef Stats
 
 <div align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api?username=azman_ahmed" alt="Azman's CodeChef Stats">
+  <img src="https://codechef-readme-stats.vercel.app/api?username=Dark Phoenix" alt="Azman's CodeChef Stats">
 </div>
 
 ## About Me
