@@ -11,6 +11,18 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed" alt="John Doe's Codeforces Stats">
 </div>
 
+## LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcode-stats-card.vercel.app/api?username=johndoe" alt="John Doe's LeetCode Stats">
+</div>
+
+## CodeChef Stats
+
+<div align="center">
+  <img src="https://codechef-readme-stats.vercel.app/api?username=johndoe" alt="John Doe's CodeChef Stats">
+</div>
+
 ## About Me
 
 ![Your Photo](https://your-image-url.com/photo.jpg)
