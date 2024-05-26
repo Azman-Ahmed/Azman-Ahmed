@@ -2,6 +2,8 @@
 
 ![Azman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=radical)
 
+![Azman's Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed)
+
 
 ## About Me
 
