@@ -1,73 +1,62 @@
-# Hi there, I'm MD. Azman Ahmed! 👋
+# GitHub Trends
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+## SPECIAL: GitHub Wrapped
 
+Check out your GitHub Wrapped at `githubwrapped.io`!
 
-## About Me
-
-![Your Photo](https://your-image-url.com/photo.jpg)
-
-I'm a passionate developer and competitive programmer with experience in [Your Main Technology/Field]. I love solving challenging problems and participating in programming contests. In my free time, I enjoy [Your Hobbies].
-
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [New Technology/Learning Endeavor]
-- 👯 I’m looking to collaborate on [Projects/Areas of Interest]
-- 💬 Ask me about [Your Specialties]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About You]
-
-## Skills
-
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-
-## Competitive Programming
-
-- **Profiles**:
-  - [![Codeforces](https://img.shields.io/badge/-Codeforces-000?&logo=Codeforces)](https://codeforces.com/profile/your-username)
-  - [![CodeChef](https://img.shields.io/badge/-CodeChef-000?&logo=CodeChef)](https://www.codechef.com/users/your-username)
-  - [![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode)](https://leetcode.com/your-username)
-  - [![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=HackerRank)](https://www.hackerrank.com/your-username)
-
-- **Achievements**:
-  - 🥇 **First Place** in [Competition Name] - [Date]
-  - 🥈 **Second Place** in [Competition Name] - [Date]
-  - 🏅 **Top 10%** in [Competition Name] - [Date]
-  - 🌟 **500+ problems solved on LeetCode**
-
-## Interactive Dashboard
-
-### LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/your-username.png)
-
-### Codeforces Stats
-![Codeforces Stats](https://codeforces-stats-api.herokuapp.com/Azman_Ahmed.png)
-
-### CodeChef Stats
-![CodeChef Stats](https://codechef-stats-api.herokuapp.com/your-username.png)
-
-## Projects
-
-### [Project Name](https://github.com/your-username/project-name)
-![Project Image](https://github.com/your-username/project-name/blob/main/screenshot.png)
-
-Brief description of the project. What does it do? What technologies were used?
-
-### [Another Project](https://github.com/your-username/another-project)
-![Project Image](https://github.com/your-username/another-project/blob/main/screenshot.png)
-
-Brief description of the project. What does it do? What technologies were used?
-
-## Contact
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/your-profile)
-- [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/your-profile)
-- [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:your-email@example.com)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
+![github-wrapped](https://github.com/avgupta456/github-trends/assets/16708871/bf9406a4-6a49-4dbf-8f60-af221bb84bd6)
 
 ---
 
-**Note:** You can customize the shields and badges as per your preference. They help in making the profile visually appealing and informative.
+## What is GitHub Trends
+
+GitHub Trends dives deep into the GitHub API to bring you exciting and impactful metrics about your code contributions. Generate insights on lines written by language, repository, and time. Easily embed dynamic images into your GitHub profile to share your statistics with the world. Check out some of the examples below:
+
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/avgupta456/langs?time_range=one_year&include_private=True&loc_metric=changed" />
+</a>
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/avgupta456/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed" />
+</a>
+
+## Quickstart
+
+First, visit `https://api.githubtrends.io/auth/signup/public` and create an account with GitHub Trends. Then, paste this string into your Markdown content, substituting your username.
+
+```md
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+```
+
+And voila, you get a card like above. Keep reading to learn more!
+
+## Why GitHub Trends?
+
+Unlike other projects which look at just your public repositories, GitHub Trends computes metrics based on your individual commits. If you commit to open-source projects, or have collaborators contribute to your own repositories, GitHub Trends will better measure your own code contributions. Through this method, GitHub Trends is the first project that allows users to surface lines of code written (LOC) by language and repository. Our web interface also allows for easier customization.
+
+# Usage
+
+## Website Workflow (Alpha)
+
+Visit [githubtrends.io](https://www.githubtrends.io) to create an account and get started!
+
+Have questions? Check out [the demo](https://www.githubtrends.io/demo)!
+
+![image](https://user-images.githubusercontent.com/16708871/138611082-105e4dbc-8a27-4f68-8045-f9d86c912429.png)
+
+---
+
+## API Workflow (Alpha)
+
+Alternatively, you can communicate directly with the API to create and customize your cards. Read [docs/API.md](https://github.com/avgupta456/github-trends/blob/main/docs/API.md) to learn more about the API and customizations.
+
+## FAQ
+
+See [docs/FAQ.md](https://github.com/avgupta456/github-trends/blob/main/docs/FAQ.md).
+
+## Contributing
+
+See [docs/CONTRIBUTING.md](https://github.com/avgupta456/github-trends/blob/main/docs/CONTRIBUTING.md).
+
+## Acknowledgements
+
+Much inspiration was taken from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). If you haven't already, check it out and give it a star!
