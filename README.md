@@ -74,7 +74,8 @@ Brief description of the project. What does it do? What technologies were used?
 - [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/your-profile)
 - [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:your-email@example.com)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.Azman_Ahmed)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Azman_Ahmed.Azman_Ahmed)
+
 
 ---
 
