@@ -70,11 +70,10 @@ Brief description of the project. What does it do? What technologies were used?
 
 ## Contact
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/your-profile)
-- [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/your-profile)
-- [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:your-email@example.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/azman-ewubd)
+- [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:ahmed.azman.bd0007@gmail.com)
+- [![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)](https://www.facebook.com/azman.ahmed.7796?milbextid=ZbWKwL) 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Azman_Ahmed.Azman_Ahmed)
 
 
 ---
