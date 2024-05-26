@@ -20,7 +20,7 @@
 ## CodeChef Stats
 
 <div align="center">
-  <img src="https://atcoder-card.vercel.app/api?user=Z_0_0_0_Z" alt="Azman's LeetCode Stats">
+  <img src="https://img.atcoder.jp/statistics/graph/Z_0_0_0_Z.png" alt="Azman Ahmed's AtCoder Stats">
 </div>
 
 
