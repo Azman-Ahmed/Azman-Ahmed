@@ -14,7 +14,7 @@
 ## LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/user8416dl" alt="Azman's LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/user8416dI" alt="Azman's LeetCode Stats">
 </div>
 
 ## CodeChef Stats
