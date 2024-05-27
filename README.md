@@ -2,12 +2,11 @@
 
 ## About Me
 
-<p align="center">
+<!--<p align="center">
   <img src="./image/me.jpg" alt="Azman Ahmed" />
-</p>
+</p> -->
 
-I'm a passionate developer and competitive programmer with experience in [Your Main Technology/Field]. I love solving challenging problems and participating in programming contests. In my free time, I enjoy [Your Hobbies].
-
+I'm a passionate developer and competitive programmer with experience in Software Engineering. I love solving challenging problems and participating in programming contests.
 <h1 align="center">Github Stats</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=radical" alt="John Doe's GitHub stats">
