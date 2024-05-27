@@ -48,15 +48,15 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 
 ## Projects
 
-### [Project Name](https://github.com/your-username/project-name)
+### [stylometry based Author Profiling on Bangla Text Using Text Clustering ](https://github.com/your-username/project-name)
 ![Project Image](https://github.com/your-username/project-name/blob/main/screenshot.png)
 
-Brief description of the project. What does it do? What technologies were used?
+Utilizing stylometry features extracted from Bangla text, this project employs clustering methods to identify the classical writer most likely to have authored the given texts.
 
-### [Another Project](https://github.com/your-username/another-project)
+<!-- ### [Another Project](https://github.com/your-username/another-project)
 ![Project Image](https://github.com/your-username/another-project/blob/main/screenshot.png)
 
-Brief description of the project. What does it do? What technologies were used?
+Brief description of the project. What does it do? What technologies were used? -->
 
 
 
