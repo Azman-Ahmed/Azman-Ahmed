@@ -1,11 +1,33 @@
 # Hi there, I'm MD. Azman Ahmed! 👋
 
+## About Me
 
+<p align="center">
+  <img src="./image/me.jpg" alt="Azman Ahmed" />
+</p>
+
+I'm a passionate developer and competitive programmer with experience in [Your Main Technology/Field]. I love solving challenging problems and participating in programming contests. In my free time, I enjoy [Your Hobbies].
+
+<h1 align="center">Github Stats</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=radical" alt="John Doe's GitHub stats">
 </div>
 
-<h1 align="center">Azman's Programming Stats</h1>
+<h1 align="center">Programming Stats</h1>
+    <table align="center">
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed" alt="Azman's Codeforces Stats">
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="https://leetcard.jacoblin.cool/user8416dI" alt="Azman's LeetCode Stats">
+                </div>
+            </td>
+        </tr>
+    </table>
     <table align="center">
         <tr>
             <td>
@@ -22,13 +44,7 @@
     </table>
 
 
-## About Me
 
-<p align="center">
-  <img src="./image/me.jpg" alt="Azman Ahmed" />
-</p>
-
-I'm a passionate developer and competitive programmer with experience in [Your Main Technology/Field]. I love solving challenging problems and participating in programming contests. In my free time, I enjoy [Your Hobbies].
 
 - 🔭 I’m currently working on [Current Project]
 - 🌱 I’m currently learning [New Technology/Learning Endeavor]
