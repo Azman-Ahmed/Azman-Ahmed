@@ -31,16 +31,25 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 ## Skills
 
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B) ![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?&logo=dotnet)
+- **Frameworks**: ![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?&logo=dotnet)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
+## HackerRank Certificates
+
+Here are some of the certifications I have achieved on HackerRank:
+
+- [Problem Solving (Intermediate)](link-to-certificate)
+- [Java (Basic)](link-to-certificate)
+- [Python (Basic)](link-to-certificate)
+- [SQL (Intermediate)](link-to-certificate)
 
 ## Competitive Programming
 
 - **Profiles**:
-  - [![Codeforces](https://img.shields.io/badge/-Codeforces-000?&logo=Codeforces)](https://codeforces.com/profile/your-username)
-  - [![CodeChef](https://img.shields.io/badge/-CodeChef-000?&logo=CodeChef)](https://www.codechef.com/users/your-username)
-  - [![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode)](https://leetcode.com/your-username)
-  - [![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=HackerRank)](https://www.hackerrank.com/your-username)
+  - [![Codeforces](https://img.shields.io/badge/-Codeforces-000?&logo=Codeforces)](https://codeforces.com/profile/Azman_Ahmed)
+  - [![CodeChef](https://img.shields.io/badge/-CodeChef-000?&logo=CodeChef)](https://www.codechef.com/users/azman_ahmed)
+  - [![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode)](https://leetcode.com/u/user8416dI/)
+  - [![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=HackerRank)](https://www.hackerrank.com/profile/ahmed_azman_bd01)
 
 
 - 🔭 I’m currently working on [Current Project]
@@ -68,7 +77,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 ![Codeforces Stats](https://codeforces-stats-api.herokuapp.com/Azman_Ahmed.png)
 
 ### CodeChef Stats
-![CodeChef Stats](https://codechef-stats-api.herokuapp.com/your-username.png)
+![CodeChef Stats](https://codechef-stats-api.herokuapp.com/azman_ahmed.png)
 
 ## Projects
 
