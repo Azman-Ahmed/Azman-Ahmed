@@ -48,11 +48,11 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 
 ## Projects
 
-### [stylometry based Author Profiling on Bangla Text Using Text Clustering ](https://github.com/your-username/project-name)
+### [Stylometry-Based Author Profiling on Bangla Text Using Text Clustering](https://github.com/your-username/project-name)
 
 <p align="center">
-  <img src="./image/Clusters.png" alt="Project Image" />
-</p> 
+  <img src="./image/Clusters.png" alt="Project Image" width="400" />
+</p>
 
 Utilizing stylometry features extracted from Bangla text, this project employs clustering methods to identify the classical writer most likely to have authored the given texts.
 
