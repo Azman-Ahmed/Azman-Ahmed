@@ -5,16 +5,15 @@
 <!--<p align="center">
   <img src="./image/me.jpg" alt="Azman Ahmed" />
 </p> -->
-
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [New Technology/Learning Endeavor]
-- 👯 I’m looking to collaborate on [Projects/Areas of Interest]
-- 💬 Ask me about [Your Specialties]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About You]
-
 I'm a passionate developer and competitive programmer with experience in Software Engineering. I love solving challenging problems and participating in programming contests.
+
+<!-- - 🔭 I’m currently working on [Current Project] -->
+- 🌱 I’m currently learning ASP .net
+- 👯 I’m interested to join a Software Engineer
+- 📫 How to reach me: [ahmed.azman.bd0007@gmail.com]
+
+
+
 <h1 align="center">Github Stats</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=radical" alt="John Doe's GitHub stats">
