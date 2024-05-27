@@ -31,7 +31,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 ## Skills
 
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B) ![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+- **Frameworks**: ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?&logo=dotnet)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 ## Competitive Programming
