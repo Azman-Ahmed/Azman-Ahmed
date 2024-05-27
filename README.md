@@ -27,22 +27,19 @@ I'm a passionate developer and competitive programmer with experience in Softwar
             </td>
         </tr>
     </table>
-    <table align="center">
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed" alt="Azman's Codeforces Stats">
-                </div>
-            </td>
-            <td>
-                <div align="center">
-                    <img src="https://leetcard.jacoblin.cool/user8416dI" alt="Azman's LeetCode Stats">
-                </div>
-            </td>
-        </tr>
-    </table>
+    
+## Skills
 
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B) ![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)- **Frameworks**: ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
+## Competitive Programming
+
+- **Profiles**:
+  - [![Codeforces](https://img.shields.io/badge/-Codeforces-000?&logo=Codeforces)](https://codeforces.com/profile/your-username)
+  - [![CodeChef](https://img.shields.io/badge/-CodeChef-000?&logo=CodeChef)](https://www.codechef.com/users/your-username)
+  - [![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode)](https://leetcode.com/your-username)
+  - [![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=HackerRank)](https://www.hackerrank.com/your-username)
 
 
 - 🔭 I’m currently working on [Current Project]
@@ -53,19 +50,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Interesting Fact About You]
 
-## Skills
 
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-
-## Competitive Programming
-
-- **Profiles**:
-  - [![Codeforces](https://img.shields.io/badge/-Codeforces-000?&logo=Codeforces)](https://codeforces.com/profile/your-username)
-  - [![CodeChef](https://img.shields.io/badge/-CodeChef-000?&logo=CodeChef)](https://www.codechef.com/users/your-username)
-  - [![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode)](https://leetcode.com/your-username)
-  - [![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=HackerRank)](https://www.hackerrank.com/your-username)
 
 - **Achievements**:
   - 🥇 **First Place** in [Competition Name] - [Date]
