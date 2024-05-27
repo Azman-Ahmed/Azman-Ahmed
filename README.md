@@ -5,17 +5,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=radical" alt="John Doe's GitHub stats">
 </div>
 
-## Codeforces Stats
-
-<div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed" alt="Azman's Codeforces Stats">
-</div>
-
-## LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/user8416dI" alt="Azman's LeetCode Stats">
-</div>
+<h1 align="center">Azman's Programming Stats</h1>
+    <table align="center">
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed" alt="Azman's Codeforces Stats">
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="https://leetcard.jacoblin.cool/user8416dI" alt="Azman's LeetCode Stats">
+                </div>
+            </td>
+        </tr>
+    </table>
 
 
 ## About Me
