@@ -67,7 +67,7 @@ Brief description of the project. What does it do? What technologies were used? 
 
 Here are some of the certifications I have achieved on HackerRank:
 
-- [Problem Solving (Intermediate)](link-to-certificate)
+- HackerRank Problem Solving (Basic) Skills Certification Test](link-to-certificate)
 - [Java (Basic)](link-to-certificate)
 - [Python (Basic)](link-to-certificate)
 - [SQL (Intermediate)](link-to-certificate)
