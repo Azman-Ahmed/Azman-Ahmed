@@ -83,10 +83,12 @@ Here are some of the certifications I have achieved on HackerRank:
   - [![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=HackerRank)](https://www.hackerrank.com/profile/ahmed_azman_bd01)
 
 
-<h1 align="center">Github Stats</h1>
-<div align="center">
-  <img src="https://www.githubwrapped.io/Azman-Ahmed " alt="John Doe's GitHub stats">
-</div>
+<p align="center">
+  <a href="https://www.githubwrapped.io/Azman-Ahmed">
+    <img src="https://www.githubwrapped.io/Azman-Ahmed/card.png" alt="Azman Ahmed's GitHub Wrapped" />
+  </a>
+</p>
+
 
   
 </div>
