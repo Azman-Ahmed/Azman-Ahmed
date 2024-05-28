@@ -85,7 +85,7 @@ Here are some of the certifications I have achieved on HackerRank:
 
 <p align="center">
   <a href="https://www.githubwrapped.io/Azman-Ahmed">
-    <img src="https://www.githubwrapped.io/Azman-Ahmed/card.png" alt="Azman Ahmed's GitHub Wrapped" />
+    <img src="https://www.githubwrapped.io/Azman-Ahmed.png" alt="Azman Ahmed's GitHub Wrapped" />
   </a>
 </p>
 
