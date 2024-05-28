@@ -80,7 +80,7 @@ Brief description of the project. What does it do? What technologies were used? 
     <td>
       <div align="center">
         <a href="https://drive.google.com/file/d/1oAqygnrEOZfu4aXhunvUI38qX_xwfCu1/view?usp=drive_link">
-          <div>Java (Basic)</div>
+          <div>UAP Inter University Programming Contest</div>
           <img src="./image/UAP IUPC certificate.jpg" alt="UAP IUPC" width="300"/>
         </a>
       </div>
@@ -88,7 +88,7 @@ Brief description of the project. What does it do? What technologies were used? 
     <td>
       <div align="center">
         <a href="https://drive.google.com/file/d/1oH-zAB2bGCcdKDj-Muo21rCC3Ym8C0YD/view?usp=drive_link">
-          <div>Python (Basic)</div>
+          <div>English Communication Course</div>
           <img src="./image/English Communication Course.jpg" alt="English Communication" width="300"/>
         </a>
       </div>
