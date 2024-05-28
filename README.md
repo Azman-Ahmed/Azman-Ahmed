@@ -82,8 +82,13 @@ Here are some of the certifications I have achieved on HackerRank:
   - [![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode)](https://leetcode.com/u/user8416dI/)
   - [![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=HackerRank)](https://www.hackerrank.com/profile/ahmed_azman_bd01)
 
-<div> 
-  https://www.githubwrapped.io/Azman-Ahmed 
+
+<h1 align="center">Github Stats</h1>
+<div align="center">
+  <img src="https://www.githubwrapped.io/Azman-Ahmed " alt="John Doe's GitHub stats">
+</div>
+
+  
 </div>
 
 ## Contact
