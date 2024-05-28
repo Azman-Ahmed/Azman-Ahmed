@@ -100,8 +100,8 @@ Brief description of the project. What does it do? What technologies were used? 
     <td>
       <div align="center">
         <a href="https://www.hackerrank.com/certificates/02cc8b77c55b">
-          <div>HackerRank Problem Solving (Basic) Skills Certification Test</div>
-          <img src="./image/sql_basic_certificate.png" alt="SQL Basic" width="300"/>
+          <div>HackerRank SQL Basic Certificate</div>
+          <img src="./image/sql_basic certificate.png" alt="SQL Basic" width="300"/>
         </a>
       </div>
     </td>
