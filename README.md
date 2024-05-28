@@ -22,7 +22,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 
 <h1 align="center">Github Stats</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=radical" alt="John Doe's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=radical" alt="Azman's GitHub stats">
 </div>
 
 <h1 align="center">Programming Stats</h1>
@@ -53,8 +53,10 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 ### [Stylometry-Based Author Profiling on Bangla Text Using Text Clustering](https://github.com/your-username/project-name)
 
 <p align="center">
-  <img src="./image/Clusters.png" alt="Project Image" width="400" />
+  <img src="./image/Clusters.png" alt="Hackerrank Problem Solving Basic Certificate Image" width="300" />
 </p>
+
+
 
 Utilizing stylometry features extracted from Bangla text, this project employs clustering methods to identify the classical writer most likely to have authored the given texts.
 
@@ -70,6 +72,9 @@ Brief description of the project. What does it do? What technologies were used? 
 Here are some of the certifications I have achieved on HackerRank:
 
 - [HackerRank Problem Solving (Basic) Skills Certification Test](https://www.hackerrank.com/certificates/1f36801c7dc4)
+<p align="center">
+  <img src="./image/hackerrank_PS_basic.png" alt="Project Image" width="400" />
+</p>
 - [Java (Basic)](link-to-certificate)
 - [Python (Basic)](link-to-certificate)
 - [SQL (Intermediate)](link-to-certificate)
