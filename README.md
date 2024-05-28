@@ -73,37 +73,26 @@ Brief description of the project. What does it do? What technologies were used? 
       <div align="center">
         <a href="https://www.hackerrank.com/certificates/1f36801c7dc4">
           <div>HackerRank Problem Solving (Basic) Skills Certification Test</div>
-          <img src="./image/hackerrank_PS_basic.png" alt="Problem Solving Basic" width="150"/>
+          <img src="./image/hackerrank_PS_basic.png" alt="Problem Solving Basic" width="300"/>
         </a>
       </div>
     </td>
     <td>
       <div align="center">
-        <a href="link-to-java-certificate">
+        <a href="https://drive.google.com/file/d/1oAqygnrEOZfu4aXhunvUI38qX_xwfCu1/view?usp=drive_link">
           <div>Java (Basic)</div>
-          <img src="./image/java_basic.png" alt="Java Basic" width="150"/>
+          <img src="./image/UAP IUPC.png" alt="UAP IUPC" width="300"/>
         </a>
       </div>
     </td>
     <td>
       <div align="center">
-        <a href="link-to-python-certificate">
+        <a href="https://drive.google.com/file/d/1oH-zAB2bGCcdKDj-Muo21rCC3Ym8C0YD/view?usp=drive_link">
           <div>Python (Basic)</div>
-          <img src="./image/python_basic.png" alt="Python Basic" width="150"/>
+          <img src="./image/English Communication.png" alt="English Communication" width="300"/>
         </a>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <div align="center">
-        <a href="link-to-sql-certificate">
-          <div>SQL (Intermediate)</div>
-          <img src="./image/sql_intermediate.png" alt="SQL Intermediate" width="150"/>
-        </a>
-      </div>
-    </td>
-    <!-- Add more cells here if needed -->
   </tr>
 </table>
 
