@@ -96,17 +96,7 @@ Brief description of the project. What does it do? What technologies were used? 
   </tr>
 </table>
 
-## Certifications
 
-Here are some of the certifications I have achieved on HackerRank:
-
-- [HackerRank Problem Solving (Basic) Skills Certification Test](https://www.hackerrank.com/certificates/1f36801c7dc4)
-<p align="center">
-  <img src="./image/hackerrank_PS_basic.png" alt="Project Image" width="400" />
-</p>
-- [Java (Basic)](link-to-certificate)
-- [Python (Basic)](link-to-certificate)
-- [SQL (Intermediate)](link-to-certificate)
 
 
 
