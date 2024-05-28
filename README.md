@@ -82,6 +82,10 @@ Here are some of the certifications I have achieved on HackerRank:
   - [![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode)](https://leetcode.com/u/user8416dI/)
   - [![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=HackerRank)](https://www.hackerrank.com/profile/ahmed_azman_bd01)
 
+<div> 
+  https://www.githubwrapped.io/Azman-Ahmed 
+</div>
+
 ## Contact
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/azman-ewubd)
