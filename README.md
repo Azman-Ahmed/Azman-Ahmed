@@ -9,8 +9,14 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 
 <!-- - 🔭 I’m currently working on [Current Project] -->
 - 🌱 I’m currently learning ASP .net
-- 👯 I’m interested to join a Software Engineer
+- 👯 I’m interested to join as a Software Engineer 
 - 📫 How to reach me: [ahmed.azman.bd0007@gmail.com]
+
+## Skills
+
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B) ![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+- **Frameworks**: ![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?&logo=dotnet)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 
 
@@ -37,11 +43,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 
 
 
-## Skills
 
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B) ![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-- **Frameworks**: ![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?&logo=dotnet)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 
 
