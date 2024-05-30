@@ -50,7 +50,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 
 ## Projects
 
-### [Stylometry-Based Author Profiling on Bangla Text Using Text Clustering](https://github.com/your-username/project-name)
+### [Stylometry-Based Author Profiling on Bangla Text Using Text Clustering](https://github.com/Azman-Ahmed/Stylometry-based-Author-Profiling-on-Bangla-Text-Using-Text-Clustering)
 
 <p align="center">
   <img src="./image/Clusters.png" alt="Hackerrank Problem Solving Basic Certificate Image" width="300" />
