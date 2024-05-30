@@ -8,6 +8,7 @@
 I'm a passionate developer and competitive programmer with experience in Software Engineering. I love solving challenging problems and participating in programming contests.
 
 <!-- - 🔭 I’m currently working on [Current Project] -->
+- 🎓 graduated from East West University with a degree in CSE.
 - 🌱 I’m currently learning ASP .net
 - 👯 I’m interested to join as a Software Engineer 
 - 📫 How to reach me: [ahmed.azman.bd0007@gmail.com]
