@@ -13,6 +13,8 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 - 👯 I’m interested to join as a Software Engineer 
 - 📫 How to reach me: [ahmed.azman.bd0007@gmail.com]
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azman-Ahmed&show_icons=true&locale=en&layout=compact" alt="sanim2001" /></p>
+
 ## Skills
 
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B) ![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
