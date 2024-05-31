@@ -13,7 +13,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 - 👯 I’m interested to join as a Software Engineer 
 - 📫 How to reach me: [ahmed.azman.bd0007@gmail.com]
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azman-Ahmed&show_icons=true&locale=en&layout=compact" alt="sanim2001" /></p>
+
 
 ## Skills
 
@@ -25,7 +25,13 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 
 <h1 align="center">Github Stats</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=radical" alt="Azman's GitHub stats">
+  <table>
+    <tr>
+      <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azman-Ahmed&show_icons=true&locale=en&layout=compact" alt="Azman Ahmed" /></p></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=radical" alt="Azman's GitHub stats"></td>
+    </tr>
+  </table>
+  
 </div>
 
 <h1 align="center">Programming Stats</h1>
