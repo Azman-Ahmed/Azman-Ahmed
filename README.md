@@ -51,7 +51,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
         <tr>
             <td>
                 <div align="center">
-                  ![Azman's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk)](https://github.com/Z_0_0_0_Z/atcoder-readme-stats)
+                  <p> ![Azman's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk)](https://github.com/Z_0_0_0_Z/atcoder-readme-stats) </p>
                 </div>
             </td>
         </tr>
