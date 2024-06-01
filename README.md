@@ -48,6 +48,13 @@ I'm a passionate developer and competitive programmer with experience in Softwar
                 </div>
             </td>
         </tr>
+        <tr>
+            <td>
+                <div align="center">
+                  ![Azman's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk)](https://github.com/Z_0_0_0_Z/atcoder-readme-stats)
+                </div>
+            </td>
+        </tr>
     </table>
 
 
