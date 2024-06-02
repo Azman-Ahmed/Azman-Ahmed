@@ -138,11 +138,7 @@ Brief description of the project. What does it do? What technologies were used? 
   - [![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=HackerRank)](https://www.hackerrank.com/profile/ahmed_azman_bd01)
 
 
-<p align="center">
-  <a href="https://www.githubwrapped.io/Azman-Ahmed">
-    <img src="https://www.githubwrapped.io/Azman-Ahmed.png" alt="Azman Ahmed's GitHub Wrapped" />
-  </a>
-</p>
+
 
 
   
