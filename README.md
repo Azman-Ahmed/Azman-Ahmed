@@ -153,5 +153,3 @@ Brief description of the project. What does it do? What technologies were used? 
 
 
 ---
-
-**Note:** You can customize the shields and badges as per your preference. They help in making the profile visually appealing and informative.
