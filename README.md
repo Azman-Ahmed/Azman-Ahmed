@@ -27,12 +27,18 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 <div align="center">
   <table>
     <tr>
-      <td> <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Azman-Ahmed&show_icons=true&locale=en&layout=compact" alt = "Azman Ahmed"/> </p> </td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=radical" alt="Azman's GitHub stats"></td>
+      <td>
+        <p>
+          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azman-Ahmed&show_icons=true&locale=en&layout=compact" alt="Azman Ahmed's Top Languages" />
+        </p>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=radical" alt="Azman's GitHub stats" />
+      </td>
     </tr>
   </table>
-  
 </div>
+
 
 <h1 align="center">Programming Stats</h1>
     <table align="center">
