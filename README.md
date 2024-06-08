@@ -13,9 +13,6 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 - 👯 I’m interested to join as a Software Engineer 
 - 📫 How to reach me: [ahmed.azman.bd0007@gmail.com]
 
-<a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /></a>
-
-
 
 ## Skills
 
@@ -31,7 +28,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
     <tr>
       <td>
         <p>
-          <a href="https://github.com/Azman-Ahmed/github-stats"><img align="left" src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Azman Ahmed's Top Languages"/></a>
+          <a href="https://github.com/Azman-Ahmed/github-stats"><img align="left" src="https://github.com/Azman-Ahmed/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Azman Ahmed's Top Languages"/></a>
         </p>
       </td>
       <td>
