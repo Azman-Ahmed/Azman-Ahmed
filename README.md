@@ -13,6 +13,11 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 - 👯 I’m interested to join as a Software Engineer 
 - 📫 How to reach me: [ahmed.azman.bd0007@gmail.com]
 
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 
 ## Skills
