@@ -28,7 +28,9 @@ I'm a passionate developer and competitive programmer with experience in Softwar
     <tr>
       <td>
         <p>
-          <a href="https://github.com/Azman-Ahmed/github-stats"><img align="left" src="https://github.com/Azman-Ahmed/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Azman Ahmed's Top Languages"/></a>
+          <a href="https://github.com/Azman-Ahmed/github-stats">
+            <img align="left" src="https://github.com/Azman-Ahmed/github-stats/raw/master/generated/languages.svg" alt="Azman Ahmed's Top Languages"/>
+          </a>
         </p>
       </td>
       <td>
