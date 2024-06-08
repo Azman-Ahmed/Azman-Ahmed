@@ -14,10 +14,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 - 📫 How to reach me: [ahmed.azman.bd0007@gmail.com]
 
 <a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
 
@@ -36,7 +33,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
     <tr>
       <td>
         <p>
-          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azman-Ahmed&show_icons=true&locale=en&layout=compact" alt="Azman Ahmed's Top Languages" />
+          <img align="left" src="https://github.com/Azman-Ahmed/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Azman Ahmed's Top Languages" />
         </p>
       </td>
       <td>
