@@ -28,9 +28,8 @@ I'm a passionate developer and competitive programmer with experience in Softwar
     <tr>
       <td>
         <p>
-          <a href="https://github.com/Azman-Ahmed/github-stats">
-            <img align="left" src="https://github.com/Azman-Ahmed/github-stats/raw/master/generated/languages.svg" alt="Azman Ahmed's Top Languages"/>
-          </a>
+          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azman-Ahmed&show_icons=true&locale=en&layout=compact" alt="Azman Ahmed's Top Languages" />
+          <img align="left" src="https://github.com/Azman-Ahmed/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Azman Ahmed's Top Languages" />
         </p>
       </td>
       <td>
