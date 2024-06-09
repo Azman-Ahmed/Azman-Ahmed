@@ -44,19 +44,19 @@ I'm a passionate developer and competitive programmer with experience in Softwar
         <tr>
             <td>
                 <div align="center">
-                    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed" alt="Azman's Codeforces Stats">
+                    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed&theme=maroongold" alt="Azman's Codeforces Stats">
                 </div>
             </td>
             <td>
                 <div align="center">
-                    <img src="https://leetcard.jacoblin.cool/user8416dI" alt="Azman's LeetCode Stats">
+                    <img src="https://leetcard.jacoblin.cool/user8416dI&theme=maroongold" alt="Azman's LeetCode Stats">
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                  <img src="https://atcoder-readme-stats.vercel.app/stats/Z_0_0_0_Z">
+                  <img src="https://atcoder-readme-stats.vercel.app/stats/Z_0_0_0_Z&theme=maroongold">
                 </div>
             </td>
         </tr>
