@@ -49,14 +49,14 @@ I'm a passionate developer and competitive programmer with experience in Softwar
             </td>
             <td>
                 <div align="center">
-                    <img src="https://leetcard.jacoblin.cool/user8416dI&theme=maroongold" alt="Azman's LeetCode Stats">
+                    <img src="https://leetcard.jacoblin.cool/user8416dI" alt="Azman's LeetCode Stats">
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                  <img src="https://atcoder-readme-stats.vercel.app/stats/Z_0_0_0_Z&theme=maroongold">
+                  <img src="https://atcoder-readme-stats.vercel.app/stats/Z_0_0_0_Z">
                 </div>
             </td>
         </tr>
