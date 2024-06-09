@@ -44,7 +44,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
         <tr>
             <td>
                 <div align="center">
-                    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed&theme=black" alt="Azman's Codeforces Stats">
+                    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Azman_Ahmed" alt="Azman's Codeforces Stats">
                 </div>
             </td>
             <td>
