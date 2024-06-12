@@ -155,6 +155,4 @@ Brief description of the project. What does it do? What technologies were used? 
 - [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:ahmed.azman.bd0007@gmail.com)
 - [![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)](https://www.facebook.com/azman.ahmed.7796?milbextid=ZbWKwL) 
 
-
-commiting sir
 ---
