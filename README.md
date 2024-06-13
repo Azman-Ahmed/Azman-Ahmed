@@ -74,13 +74,13 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 ### [Stylometry-Based Author Profiling on Bangla Text Using Text Clustering](https://github.com/Azman-Ahmed/Stylometry-based-Author-Profiling-on-Bangla-Text-Using-Text-Clustering)
 
 <p align="center">
-  <img src="./image/Clusters.png" alt="3D Clusters" width="1000" />
+  <img src="./image/Clusters.png" alt="3D Clusters" width="700" />
 </p>
 
 ### [T20 World Cup Website](https:https://github.com/Azman-Ahmed/T20-World-Cup-Website)
 
 <p align="center">
-  <img src="image/T20 World Cup.jpg" alt="T20 World Cup Website Diagrams" width="1000" />
+  <img src="image/T20 World Cup.jpg" alt="T20 World Cup Website Diagrams" width="700" />
 </p>
 
 
