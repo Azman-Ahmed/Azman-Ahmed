@@ -80,7 +80,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 ### [T20 World Cup Website](https:https://github.com/Azman-Ahmed/T20-World-Cup-Website)
 
 <p align="center">
-  <img src="img/T20 World Cup.jpg" alt="T20 World Cup Website Diagrams" width="500" />
+  <img src="image/T20 World Cup.jpg" alt="T20 World Cup Website Diagrams" width="500" />
 </p>
 
 
