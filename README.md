@@ -77,15 +77,13 @@ I'm a passionate developer and competitive programmer with experience in Softwar
   <img src="./image/Clusters.png" alt="3D Clusters" width="700" />
 </p>
 
+Utilizing stylometry features extracted from Bangla text, this project employs clustering methods to identify the classical writer most likely to have authored the given texts.
+
 ### [T20 World Cup Website](https://github.com/Azman-Ahmed/T20-World-Cup-Website)
 
 <p align="center">
   <img src="image/T20 World Cup.jpg" alt="T20 World Cup Website Diagrams" width="700" />
 </p>
-
-
-
-Utilizing stylometry features extracted from Bangla text, this project employs clustering methods to identify the classical writer most likely to have authored the given texts.
 
 <!-- ### [Another Project](https://github.com/your-username/another-project)
 ![Project Image](https://github.com/your-username/another-project/blob/main/screenshot.png)
