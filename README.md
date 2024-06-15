@@ -63,18 +63,23 @@ I'm a passionate developer and competitive programmer with experience in Softwar
     </table>
 
 
-
-
-
-
-
-
 ## Projects
 
 ### [Stylometry-Based Author Profiling on Bangla Text Using Text Clustering](https://github.com/Azman-Ahmed/Stylometry-based-Author-Profiling-on-Bangla-Text-Using-Text-Clustering)
 
 <p align="center">
   <img src="./image/Clusters.png" alt="3D Clusters" width="700" />
+</p>
+
+Utilizing stylometry features extracted from Bangla text, this project employs clustering methods to identify the classical writer most likely to have authored the given texts.
+
+### [Customer Form](https://github.com/Azman-Ahmed/Customer-Form-using-.NET-MVC)
+
+<p align="center">
+  <tr>
+    <td><img src="./image/Clusters.png" alt="Customer Form" width="350" /></td>
+    <td><img src="./image/Clusters.png" alt="Customer Form" width="350" /></td>
+  </tr>
 </p>
 
 Utilizing stylometry features extracted from Bangla text, this project employs clustering methods to identify the classical writer most likely to have authored the given texts.
