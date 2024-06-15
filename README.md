@@ -82,7 +82,7 @@ Utilizing stylometry features extracted from Bangla text, this project employs c
   </tr>
 </p>
 
-Utilizing stylometry features extracted from Bangla text, this project employs clustering methods to identify the classical writer most likely to have authored the given texts.
+A customer form using .NET MVC core 8.0 which validates then store Customer Information and views returning customer details.
 
 ### [T20 World Cup Website](https://github.com/Azman-Ahmed/T20-World-Cup-Website)
 
