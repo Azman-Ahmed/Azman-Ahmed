@@ -73,12 +73,12 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 
 Utilizing stylometry features extracted from Bangla text, this project employs clustering methods to identify the classical writer most likely to have authored the given texts.
 
-### [Customer Form](https://github.com/Azman-Ahmed/Customer-Form-using-.NET-MVC)
+### [Customer-Form-using-.NET-MVC](https://github.com/Azman-Ahmed/Customer-Form-using-.NET-MVC)
 
 <p align="center">
   <tr>
-    <td><img src="./image/Clusters.png" alt="Customer Form" width="350" /></td>
-    <td><img src="./image/Clusters.png" alt="Customer Form" width="350" /></td>
+    <td><img src="./image/customer1.png" alt="Customer Form" width="350" /></td>
+    <td><img src="./image/customer2.png" alt="Customer Form" width="350" /></td>
   </tr>
 </p>
 
