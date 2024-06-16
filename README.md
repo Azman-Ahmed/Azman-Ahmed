@@ -15,6 +15,11 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 - ICPC Public Profile https://icpc.global/ICPCID/SS51WE80VVKV
 
 
+<div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Azman-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Azman Ahmed" /> </p>
+</div>
+
+
 ## Skills
 
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B) ![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
@@ -174,3 +179,7 @@ Brief description of the project. What does it do? What technologies were used? 
 - [![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)](https://www.facebook.com/azman.ahmed.7796?milbextid=ZbWKwL) 
 
 ---
+
+<div position="center">
+  <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Azman-Ahmed" alt="Azman Ahmed" /></a> </p>
+</div>
