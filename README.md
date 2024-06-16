@@ -183,3 +183,11 @@ Brief description of the project. What does it do? What technologies were used? 
 <div position="center">
   <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Azman-Ahmed" alt="Azman Ahmed" /></a> </p>
 </div>
+
+<div>
+  <hr>
+
+<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
+![Azman-Ahmed gif](https://github.com/Azman-Ahmed/Azman-Ahmed/blob/output/github-contribution-grid-snake.svg) 
+<br />
+</div>
