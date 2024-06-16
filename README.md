@@ -40,13 +40,19 @@ I'm a passionate developer and competitive programmer with experience in Softwar
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Azman-Ahmed&theme=maroongold" alt="Azman's GitHub stats" />
       </td>
-      <td>
-        <p align="center"> <a href="https://github.com/Azman-Ahmed/github-readme-streak-stats"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Azman-Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Azman-Ahmed&theme=maroongold&hide_border=true&stroke=0000&background=060A0CD0"/> </a>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <p align="center">
+          <a href="https://github.com/Azman-Ahmed/github-readme-streak-stats">
+            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Azman-Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Azman-Ahmed&theme=maroongold&hide_border=true&stroke=0000&background=060A0CD0" />
+          </a>
         </p>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <h1 align="center">Programming Stats</h1>
