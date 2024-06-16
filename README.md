@@ -104,7 +104,7 @@ Brief description of the project. What does it do? What technologies were used? 
       <div align="center">
         <a href="https://icpc.global/ICPCID/SS51WE80VVKV">
           <div>ICPC Certification</div>
-          <img src="./image/icpc.pdf" alt="ICPCc" width="300"/>
+          <img src="./image/ICPC.png" alt="ICPC" width="300"/>
         </a>
       </div>
     </td>
