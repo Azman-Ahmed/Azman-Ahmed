@@ -102,9 +102,9 @@ Brief description of the project. What does it do? What technologies were used? 
   <tr>
     <td>
       <div align="center">
-        <a href="https://www.hackerrank.com/certificates/1f36801c7dc4">
-          <div>HackerRank Problem Solving (Basic) Skills Certification Test</div>
-          <img src="./image/hackerrank_PS_basic.png" alt="Problem Solving Basic" width="300"/>
+        <a href="https://icpc.global/ICPCID/SS51WE80VVKV">
+          <div>ICPC Certification</div>
+          <img src="./image/icpc.pdf" alt="ICPCc" width="300"/>
         </a>
       </div>
     </td>
@@ -132,6 +132,14 @@ Brief description of the project. What does it do? What technologies were used? 
         <a href="https://www.hackerrank.com/certificates/02cc8b77c55b">
           <div>HackerRank SQL Basic Certificate</div>
           <img src="./image/sql_basic certificate.png" alt="SQL Basic" width="300"/>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://www.hackerrank.com/certificates/1f36801c7dc4">
+          <div>HackerRank Problem Solving (Basic) Skills Certification Test</div>
+          <img src="./image/hackerrank_PS_basic.png" alt="Problem Solving Basic" width="300"/>
         </a>
       </div>
     </td>
