@@ -52,10 +52,6 @@ I'm a passionate developer and competitive programmer with experience in Softwar
   </table>
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Azman-Ahmed}/count.svg" /></p> 
-<br></div>
 
 <h1 align="center">Programming Stats</h1>
     <table align="center">
