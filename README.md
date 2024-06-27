@@ -52,7 +52,10 @@ I'm a passionate developer and competitive programmer with experience in Softwar
   </table>
 </div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Azman-Ahmed&theme=highcontrast&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D" alt="Azman-Ahmed" /></p>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Azman-Ahmed}/count.svg" /></p> 
+<br></div>
 
 <h1 align="center">Programming Stats</h1>
     <table align="center">
