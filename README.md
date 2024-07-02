@@ -9,8 +9,9 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 
 <!-- - 🔭 I’m currently working on [Current Project] -->
 - 🎓 graduated from East West University with a degree in CSE.
+- 💼 I’m currently working as a Trainee Laravel Developer in Soft BD ltd. 
 - 🌱 I’m currently learning ASP .Net Core 8.0
-- 👯 I’m interested to join as a Software Engineer 
+- 👯 I’m interested to work as a Software Engineer 
 - 📫 How to reach me: [ahmed.azman.bd0007@gmail.com]
 - ICPC Public Profile https://icpc.global/ICPCID/SS51WE80VVKV
 
