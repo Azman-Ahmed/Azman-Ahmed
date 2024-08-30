@@ -158,6 +158,14 @@ Brief description of the project. What does it do? What technologies were used? 
         </a>
       </div>
     </td>
+    <td>
+      <div align="center">
+        <a href="https://www.hackerrank.com/certificates/7f523e3212ba">
+          <div>HackerRank SQL Intermediate Certificate</div>
+          <img src="./image/SQL_Intermediate.png" alt="Problem Solving Basic" width="300"/>
+        </a>
+      </div>
+    </td>
     
   </tr>
 </table>
