@@ -145,7 +145,7 @@ Brief description of the project. What does it do? What technologies were used? 
       <div align="center">
         <a href="#">
           <div>Wadhwani - JobReady Employability Skills</div>
-          <img src="./image/wadhwani.png" alt="wadhwani" width="300"/>
+          <img src="./image/Wadhwani.png" alt="wadhwani" width="300"/>
         </a>
       </div>
     </td>
