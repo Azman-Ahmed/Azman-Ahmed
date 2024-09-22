@@ -113,26 +113,15 @@ Brief description of the project. What does it do? What technologies were used? 
 ## Certifications
 
 <table>
-  
   <tr>
-
     <td>
       <div align="center">
-        <a href="">
+        <a href="#">
           <div>Wadhwani - JobReady Employability Skills</div>
           <img src="./image/wadhwani.png" alt="wadhwani" width="300"/>
         </a>
       </div>
     </td>
-    <td>
-        <div align="center">
-          <a href="https://icpc.global/ICPCID/SS51WE80VVKV">
-            <div>ICPC Certification</div>
-            <img src="./image/ICPC.png" alt="ICPC" width="300"/>
-          </a>
-        </div>
-    </td>
-
     <td>
       <div align="center">
         <a href="https://icpc.global/ICPCID/SS51WE80VVKV">
@@ -141,40 +130,32 @@ Brief description of the project. What does it do? What technologies were used? 
         </a>
       </div>
     </td>
-    
     <td>
       <div align="center">
         <a href="https://drive.google.com/file/d/1oAqygnrEOZfu4aXhunvUI38qX_xwfCu1/view?usp=drive_link">
           <div>UAP Inter University Programming Contest</div>
-          <img src="./image/UAP IUPC certificate.jpg" alt="UAP IUPC" width="300"/>
+          <img src="./image/UAP_IUPC_certificate.jpg" alt="UAP IUPC" width="300"/>
         </a>
       </div>
     </td>
-    
-    
-    
     <td>
       <div align="center">
         <a href="https://drive.google.com/file/d/1oH-zAB2bGCcdKDj-Muo21rCC3Ym8C0YD/view?usp=drive_link">
           <div>English Communication Course</div>
-          <img src="./image/English Communication Course.jpg" alt="English Communication" width="300"/>
+          <img src="./image/English_Communication_Course.jpg" alt="English Communication" width="300"/>
         </a>
       </div>
     </td>
-    
   </tr>
-
   <tr>
-    
     <td>
       <div align="center">
         <a href="https://www.hackerrank.com/certificates/02cc8b77c55b">
           <div>HackerRank SQL Basic Certificate</div>
-          <img src="./image/sql_basic certificate.png" alt="SQL Basic" width="300"/>
+          <img src="./image/sql_basic_certificate.png" alt="SQL Basic" width="300"/>
         </a>
       </div>
     </td>
-    
     <td>
       <div align="center">
         <a href="https://www.hackerrank.com/certificates/1f36801c7dc4">
@@ -183,20 +164,16 @@ Brief description of the project. What does it do? What technologies were used? 
         </a>
       </div>
     </td>
-    
     <td>
       <div align="center">
         <a href="https://www.hackerrank.com/certificates/7f523e3212ba">
           <div>HackerRank SQL Intermediate Certificate</div>
-          <img src="./image/SQL_Intermediate.png" alt="Problem Solving Basic" width="300"/>
+          <img src="./image/SQL_Intermediate.png" alt="SQL Intermediate" width="300"/>
         </a>
       </div>
     </td>
-    
   </tr>
 </table>
-
-
 
 
 
