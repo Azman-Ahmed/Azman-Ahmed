@@ -116,6 +116,15 @@ Brief description of the project. What does it do? What technologies were used? 
   
   <tr>
     <td>
+      <td>
+      <div align="center">
+        <a href="https://icpc.global/ICPCID/SS51WE80VVKV">
+          <div>ICPC Certification</div>
+          <img src="./image/ICPC.png" alt="ICPC" width="300"/>
+        </a>
+      </div>
+    </td>
+    
       <div align="center">
         <a href="https://icpc.global/ICPCID/SS51WE80VVKV">
           <div>ICPC Certification</div>
@@ -128,6 +137,14 @@ Brief description of the project. What does it do? What technologies were used? 
         <a href="https://drive.google.com/file/d/1oAqygnrEOZfu4aXhunvUI38qX_xwfCu1/view?usp=drive_link">
           <div>UAP Inter University Programming Contest</div>
           <img src="./image/UAP IUPC certificate.jpg" alt="UAP IUPC" width="300"/>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="">
+          <div>Wadhwani - JobReady Employability Skills</div>
+          <img src="./image/wadhwani.png" alt="wadhwani" width="300"/>
         </a>
       </div>
     </td>
