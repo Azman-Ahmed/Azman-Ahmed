@@ -116,14 +116,6 @@ Brief description of the project. What does it do? What technologies were used? 
   <tr>
     <td>
       <div align="center">
-        <a href="#">
-          <div>Wadhwani - JobReady Employability Skills</div>
-          <img src="./image/wadhwani.png" alt="wadhwani" width="300"/>
-        </a>
-      </div>
-    </td>
-    <td>
-      <div align="center">
         <a href="https://icpc.global/ICPCID/SS51WE80VVKV">
           <div>ICPC Certification</div>
           <img src="./image/ICPC.png" alt="ICPC" width="300"/>
