@@ -126,7 +126,7 @@ Brief description of the project. What does it do? What technologies were used? 
       <div align="center">
         <a href="https://drive.google.com/file/d/1oAqygnrEOZfu4aXhunvUI38qX_xwfCu1/view?usp=drive_link">
           <div>UAP Inter University Programming Contest</div>
-          <img src="./image/UAP_IUPC_certificate.jpg" alt="UAP IUPC" width="300"/>
+          <img src="./image/UAP IUPC certificate.jpg" alt="UAP IUPC" width="300"/>
         </a>
       </div>
     </td>
