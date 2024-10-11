@@ -86,6 +86,9 @@ I'm a passionate developer and competitive programmer with experience in Softwar
   <tr>
     <td> 
       <h2><a href="https://github.com/Azman-Ahmed/DoDash" target="_blank">Do Dash: A to-do web application using Laravel 11</a></h2>
+      <p align="center">
+        <img src="./image/dodash001.png" alt="DoDash">
+      </p>
     </td>
     <td> 
 
