@@ -96,6 +96,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 </table>
 
 <table>
+  <th>Research Work</th>
   <tr>
     <td> 
       <h2><a href="https://github.com/Azman-Ahmed/Stylometry-based-Author-Profiling-on-Bangla-Text-Using-Text-Clustering" target="_blank">Stylometry-Based Author Profiling on Bangla Text Using Text Clustering</a></h2>
