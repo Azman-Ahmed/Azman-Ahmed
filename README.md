@@ -93,7 +93,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <th>PHP Projects</th>
   <tr>
     <td> 
