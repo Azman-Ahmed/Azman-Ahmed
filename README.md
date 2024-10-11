@@ -94,6 +94,18 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 </table>
 
 <table>
+  <th>PHP Projects</th>
+  <tr>
+    <td> 
+      <h2><a href="https://github.com/Azman-Ahmed/T20-World-Cup-Website" target="_blank">T20 World Cup Website</a></h2>
+      <p align="center">
+        <img src="image/T20 World Cup.jpg" alt="T20 World Cup Website Diagrams" width="700" />
+    </td>
+
+  </tr>
+</table>
+
+<table>
   <th>Research Work</th>
   <tr>
     <td> 
@@ -128,13 +140,6 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 </table>
 
 
-
-
-### [T20 World Cup Website](https://github.com/Azman-Ahmed/T20-World-Cup-Website)
-
-<p align="center">
-  <img src="image/T20 World Cup.jpg" alt="T20 World Cup Website Diagrams" width="700" />
-</p>
 
 <!-- ### [Another Project](https://github.com/your-username/another-project)
 ![Project Image](https://github.com/your-username/another-project/blob/main/screenshot.png)
