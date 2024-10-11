@@ -90,11 +90,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
         <img src="./image/dodash001.png" alt="DoDash">
       </p>
     </td>
-    <td> 
-    </td>
-    <td> 
 
-    </td>
   </tr>
 </table>
 
