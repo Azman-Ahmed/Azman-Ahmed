@@ -83,6 +83,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 ## Laravel Projects
 
 <table>
+  <th>Laravel Projects</th>
   <tr>
     <td> 
       <h2><a href="https://github.com/Azman-Ahmed/DoDash" target="_blank">Do Dash: A to-do web application using Laravel 11</a></h2>
@@ -94,13 +95,21 @@ I'm a passionate developer and competitive programmer with experience in Softwar
   </tr>
 </table>
 
-### [Stylometry-Based Author Profiling on Bangla Text Using Text Clustering](https://github.com/Azman-Ahmed/Stylometry-based-Author-Profiling-on-Bangla-Text-Using-Text-Clustering)
+<table>
+  <tr>
+    <td> 
+      <h2><a href="https://github.com/Azman-Ahmed/Stylometry-based-Author-Profiling-on-Bangla-Text-Using-Text-Clustering" target="_blank">Stylometry-Based Author Profiling on Bangla Text Using Text Clustering</a></h2>
+      <p align="center">
+        <img src="./image/Clusters.png" alt="3D Clusters" width="700">
+      </p>
+      <p>
+        Utilizing stylometry features extracted from Bangla text, this project employs clustering methods to identify the classical writer most likely to have authored the given texts.
+      </p>
+    </td>
 
-<p align="center">
-  <img src="./image/Clusters.png" alt="3D Clusters" width="700" />
-</p>
+  </tr>
+</table>
 
-Utilizing stylometry features extracted from Bangla text, this project employs clustering methods to identify the classical writer most likely to have authored the given texts.
 
 ### [Customer-Form-using-.NET-MVC](https://github.com/Azman-Ahmed/Customer-Form-using-.NET-MVC)
 
