@@ -80,8 +80,6 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 
 ## Projects
 
-## Laravel Projects
-
 <table>
   <th>Laravel Projects</th>
   <tr>
@@ -111,17 +109,26 @@ I'm a passionate developer and competitive programmer with experience in Softwar
   </tr>
 </table>
 
-
-### [Customer-Form-using-.NET-MVC](https://github.com/Azman-Ahmed/Customer-Form-using-.NET-MVC)
-
-<p align="center">
+<table>
+  <th>Dot Net Project</th>
   <tr>
-    <td><img src="./image/customer1.png" alt="Customer Form" width="350" /></td>
-    <td><img src="./image/customer2.png" alt="Customer Form" width="350" /></td>
-  </tr>
-</p>
+    <td> 
+      <h2><a href="https://github.com/Azman-Ahmed/Customer-Form-using-.NET-MVC" target="_blank">Customer-Form-using-.NET-MVC</a></h2>
+      <p align="center">
+        <img src="./image/customer1.png" alt="3D Clusters" width="350">
+        <img src="./image/customer2.png" alt="Customer Form" width="350" />
+      </p>
+      <p>A customer form using .NET MVC core 8.0 which validates then store Customer Information and views returning customer details.</p>
+      <p>
+        Utilizing stylometry features extracted from Bangla text, this project employs clustering methods to identify the classical writer most likely to have authored the given texts.
+      </p>
+    </td>
 
-A customer form using .NET MVC core 8.0 which validates then store Customer Information and views returning customer details.
+  </tr>
+</table>
+
+
+
 
 ### [T20 World Cup Website](https://github.com/Azman-Ahmed/T20-World-Cup-Website)
 
