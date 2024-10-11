@@ -91,7 +91,6 @@ I'm a passionate developer and competitive programmer with experience in Softwar
       </p>
     </td>
     <td> 
-
     </td>
     <td> 
 
