@@ -80,6 +80,16 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 
 ## Projects
 
+## Laravel Projects
+
+<table>
+  <tr>
+    <td> 
+## hello
+    </td>
+  </tr>
+</table>
+
 ### [Stylometry-Based Author Profiling on Bangla Text Using Text Clustering](https://github.com/Azman-Ahmed/Stylometry-based-Author-Profiling-on-Bangla-Text-Using-Text-Clustering)
 
 <p align="center">
