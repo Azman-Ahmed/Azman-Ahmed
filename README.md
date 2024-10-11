@@ -10,7 +10,7 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 <!-- - 🔭 I’m currently working on [Current Project] -->3
 - 💼 I’m currently working as a Junior Laravel-React Developer in Soft BD ltd. 
 - 🎓 graduated from East West University with a degree in CSE.
-- 🌱 I’m currently learning ASP .Net Core 8.0
+- 🌱 Interested to learn ASP .Net Core 8.0
 - 👯 I’m interested to work as a Software Engineer 
 - 📫 How to reach me: [ahmed.azman.bd0007@gmail.com]
 - ICPC Public Profile https://icpc.global/ICPCID/SS51WE80VVKV
