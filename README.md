@@ -7,7 +7,7 @@
 </p> -->
 I'm a passionate developer and competitive programmer with experience in Software Engineering. I love solving challenging problems and participating in programming contests.
 
-<!-- - 🔭 I’m currently working on [Current Project] -->3
+<!-- - 🔭 I’m currently working on [Current Project] -->
 - 💼 I’m currently working as a Junior Laravel-React Developer in Soft BD ltd. 
 - 🎓 graduated from East West University with a degree in CSE.
 - 🌱 Interested to learn ASP .Net Core 8.0
