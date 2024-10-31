@@ -35,6 +35,15 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 - **Version Control**:
 
 
+for language add C, C++, PHP, JavaScript, Python
+For Framework: Laravel. React Js, Next JS
+
+Database: 
+Mysql, MongoDB, POstgress, Eloquent
+
+Version control:
+github, gitlab, git, docker
+
 
 
 
