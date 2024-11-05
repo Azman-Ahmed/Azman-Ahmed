@@ -44,6 +44,12 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 - **Version Control**:  
   ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+- **Tools**:  
+  ![Mermaid](https://img.shields.io/badge/mermaid-%2300B4CC.svg?style=for-the-badge&logo=mermaid&logoColor=white) 
+  ![Draw.io](https://img.shields.io/badge/draw.io-%230A75CC.svg?style=for-the-badge&logo=diagrams.net&logoColor=white) 
+  ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+
+
 
 
 <h1 align="center">Github Stats</h1>
