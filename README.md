@@ -21,11 +21,15 @@ I'm a passionate developer and competitive programmer with experience in Softwar
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]() 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]() 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/azman.ahmed.7796?milbextid=ZbWKwL) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/a_z_man_/profilecard/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azman-ewubd)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28137728/md-azman-ahmed) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mdazmanahmed5105) 
+[Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:ahmed.azman.bd0007@gmail.com)
+
+
+
 
 
 
@@ -265,13 +269,6 @@ Brief description of the project. What does it do? What technologies were used? 
 
   
 </div>
-
-## Contact
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/azman-ewubd)
-- [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:ahmed.azman.bd0007@gmail.com)
-- [![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)](https://www.facebook.com/azman.ahmed.7796?milbextid=ZbWKwL) 
-
 ---
 
 <div position="center">
